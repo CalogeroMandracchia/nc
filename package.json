@@ -1,0 +1,29 @@
+{
+  "name": "nc",
+  "version": "1.0.0",
+  "description": "vanilla minimalist netcat written in ES6",
+  "main": "nc.js",
+  "scripts": {
+    "start": "node nc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalogeroMandracchia/nc.git"
+  },
+  "keywords": [
+    "nc",
+    "netcat",
+    "nodejs",
+    "javascript",
+    "vanilla",
+    "tcp",
+    "tls",
+    "ES6"
+  ],
+  "author": "Calogero Mandracchia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalogeroMandracchia/nc/issues"
+  },
+  "homepage": "https://github.com/CalogeroMandracchia/nc#readme"
+}
